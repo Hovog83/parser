@@ -10,7 +10,7 @@
 <b>$ php artisan migrate</b>
 
 <b>1</b>
-<code>$ php artisan paresr:laitklimat test </code>  for text
+<code>$ php artisan paresr:laitklimat test </code>  for test
 <code>$ php artisan paresr:laitklimat full </code>  for full data
 
 <b>2</b>
