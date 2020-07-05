@@ -7,3 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+<b>$ php artisan migrate</b>
+
+<b>1</b>
+<code>$ php artisan paresr:laitklimat test </code>  for text
+<code>$ php artisan paresr:laitklimat full </code>  for full data
+
+<b>2</b>
+<code>$ php artisan paresr:vesnaklimat </code> 
